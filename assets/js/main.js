@@ -226,3 +226,14 @@ var x = setInterval(function() {
     document.getElementById("demo").innerHTML = "TODAY";
   }
 }, 1000);
+
+
+function myFunction() {
+  location.href = "#hero";
+}
+setTimeout(myFunction, 5000);
+
+
+  
+
+   
