@@ -583,14 +583,14 @@ section {
 
 .bismillah img {
   width: 40%;
-  padding-top: 20px;
+  padding-top: 30px;
   padding-bottom: 10px;
 }
 
 @media (max-width: 992px) {
   .bismillah img {
     width: 85%;
-    padding-top: 20px;
+    padding-top: 30px;
     padding-bottom: 10px;
     display: hide;
   }
