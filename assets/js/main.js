@@ -228,10 +228,10 @@ var x = setInterval(function() {
 }, 1000);
 
 
-function myFunction() {
-  location.href = "#hero";
-}
-setTimeout(myFunction, 5000);
+// function myFunction() {
+//   location.href = "#hero";
+// }
+// setTimeout(myFunction, 5000);
 
 
   
