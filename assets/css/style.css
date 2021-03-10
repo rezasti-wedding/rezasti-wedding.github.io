@@ -164,7 +164,7 @@ h6 {
   font-size: 12px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 7px 25px 7px 25px;
+  padding: 5px 15px;
   border-radius: 50px;
   transition: 0.5s;
   border: 2px solid #fff;
@@ -184,7 +184,7 @@ h6 {
 
 @media (max-width: 768px) {
   #hero h3 {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   #hero a {
@@ -192,12 +192,12 @@ h6 {
   }
 
   #hero h1 {
-    font-size: 32px;
+    font-size: 42px;
     line-height: 36px;
   }
 
   #hero h2 {
-    font-size: 17px;
+    font-size: 22px;
     line-height: 24px;
     margin-bottom: 30px;
   }
